@@ -2,7 +2,7 @@
 
 A simple, elegant Pomodoro timer app for iOS built with SwiftUI.
 
-![Pomodoro Timer App Screenshot](screenshot.png)
+<img src="https://github.com/gwenshap/iPomoTimer/raw/main/screenshot.png" height="500" >
 
 ## Features
 
